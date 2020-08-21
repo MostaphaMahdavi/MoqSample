@@ -1,5 +1,6 @@
 using System;
 using System.Threading.Tasks;
+using Mock.Domains.Commons.Enums;
 using Mock.Domains.Customers.Entities;
 using Mock.Domains.Customers.Enums;
 using Mock.Domains.Customers.Repositories;
@@ -63,5 +64,15 @@ namespace Mock.Services.Test
 
         }
 
+
+
+        [Fact]
+        public void CheckDatabaseEngine()
+        {
+            Mock<ICustomerRepositoryQuery> _customerRepositoryMock=new Mock<ICustomerRepositoryQuery>();
+            GetCustomerDataService customerDataService=new GetCustomerDataService(_customerRepositoryMock.Object);
+            var result = customerDataService.Execute(1, DbEngine.SqlServer);
+            _customerRepositoryMock.Verify(c=>c.GetFromSqlServer(It.IsAny<int>()));
+        }
     }
 }

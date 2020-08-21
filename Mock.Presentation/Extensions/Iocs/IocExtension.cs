@@ -18,6 +18,7 @@ namespace Mock.Presentation.Extensions.Iocs
 
 
             services.AddScoped<IGetDiscountService, GetDiscountService>();
+            services.AddScoped<IGetCustomerDataService, GetCustomerDataService>();
 
             return services;
         }
