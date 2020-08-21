@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\bin\Debug\netcoreapp3.1\Mock.DataLayerCommands.deps.json
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\bin\Debug\netcoreapp3.1\Mock.DataLayerCommands.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\bin\Debug\netcoreapp3.1\Mock.DataLayerCommands.pdb
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\bin\Debug\netcoreapp3.1\Mock.Domains.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\bin\Debug\netcoreapp3.1\Mock.Domains.pdb
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.AssemblyInfo.cs
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.csproj.CopyComplete
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerCommands\obj\Debug\netcoreapp3.1\Mock.DataLayerCommands.pdb

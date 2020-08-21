@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\bin\Debug\netcoreapp3.1\Mock.Services.deps.json
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\bin\Debug\netcoreapp3.1\Mock.Services.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\bin\Debug\netcoreapp3.1\Mock.Services.pdb
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\bin\Debug\netcoreapp3.1\Mock.Domains.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\bin\Debug\netcoreapp3.1\Mock.Domains.pdb
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.AssemblyInfo.cs
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.csproj.CopyComplete
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.Services\obj\Debug\netcoreapp3.1\Mock.Services.pdb

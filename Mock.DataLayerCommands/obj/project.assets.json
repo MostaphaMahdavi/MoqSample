@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mock.Domains/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Mock.Domains.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mock.Domains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mock.Domains/1.0.0": {
+      "type": "project",
+      "path": "../Mock.Domains/Mock.Domains.csproj",
+      "msbuildProject": "../Mock.Domains/Mock.Domains.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Mock.Domains >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mostapha\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\test2\\Mock\\Mock.DataLayerCommands\\Mock.DataLayerCommands.csproj",
+      "projectName": "Mock.DataLayerCommands",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\test2\\Mock\\Mock.DataLayerCommands\\Mock.DataLayerCommands.csproj",
+      "packagesPath": "C:\\Users\\mostapha\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\test2\\Mock\\Mock.DataLayerCommands\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mostapha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "\\\\Mac\\Home\\Desktop\\test2\\Mock\\Mock.Domains\\Mock.Domains.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Desktop\\test2\\Mock\\Mock.Domains\\Mock.Domains.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

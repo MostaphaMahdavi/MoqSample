@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\bin\Debug\netcoreapp3.1\Mock.DataLayerQueries.deps.json
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\bin\Debug\netcoreapp3.1\Mock.DataLayerQueries.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\bin\Debug\netcoreapp3.1\Mock.DataLayerQueries.pdb
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\bin\Debug\netcoreapp3.1\Mock.Domains.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\bin\Debug\netcoreapp3.1\Mock.Domains.pdb
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.AssemblyInfo.cs
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.csproj.CopyComplete
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.dll
+\\Mac\Home\Desktop\test2\Mock\Mock.DataLayerQueries\obj\Debug\netcoreapp3.1\Mock.DataLayerQueries.pdb

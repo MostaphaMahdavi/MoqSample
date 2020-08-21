@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mock.DataLayerCommands\Mock.DataLayerCommands.csproj" />
+    <ProjectReference Include="..\Mock.DataLayerQueries\Mock.DataLayerQueries.csproj" />
+    <ProjectReference Include="..\Mock.Domains\Mock.Domains.csproj" />
+    <ProjectReference Include="..\Mock.Services\Mock.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
